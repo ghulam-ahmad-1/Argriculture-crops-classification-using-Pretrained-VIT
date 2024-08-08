@@ -1,5 +1,3 @@
-Here's a structured documentation explaining the provided code:
-
 # Vision Transformer Image Classification
 
 This script demonstrates how to train and evaluate a Vision Transformer (ViT) model for image classification using the PyTorch and Hugging Face Transformers libraries. The script covers dataset preparation, model training, accuracy evaluation, and visualization of predictions.
